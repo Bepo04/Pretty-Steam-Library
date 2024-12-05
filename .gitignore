@@ -1,0 +1,8 @@
+# Ignorar l'arxiu de credencials de google
+credentials.json
+
+# Ignorar l'entorn virtual
+venv/
+
+# Ignorar arxius de IDE
+.vscode/
