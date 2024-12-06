@@ -6,3 +6,12 @@ venv/
 
 # Ignorar arxius de IDE
 .vscode/
+
+# Ignorar arxius temporals de python
+*.pyc
+__pycache__/
+
+# Ignorar arxius personals
+myCredentials.md
+resources/google_credentials.json
+resources/credentials.json
